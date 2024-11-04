@@ -335,7 +335,7 @@ Gratulacje! Właśnie skonfigurowałeś statyczny adres IP w systemie Ubuntu za 
 - Sprawdź połączenie z internetem, pingując np. Google:
 
   ```bash
-  ping -c 4 google.com
+  ping -c 4 192.168.0.51
   ```
 
 ---
